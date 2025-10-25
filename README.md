@@ -6,7 +6,7 @@ It visualizes weather data over time ("Chrono") and adapts dynamically to differ
 ---
 
 ## 🖼 Overview
-
+ 
 ChronoWeather blends modern web technologies with weather intelligence APIs to create a responsive, data-driven app.  
 Whether you’re checking today’s temperature, viewing hourly forecasts, or exploring changing conditions in real-time — ChronoWeather keeps you informed in style.
 
